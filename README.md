@@ -21,5 +21,5 @@ All datasets will be downloaded directly from publicly available sources, and th
 
 # The results on Amazon Photo dataset should be close to:
 
-<img width="150" src="https://github.com/sunisfighting/NETON/blob/main/example_photo.jpg"/>
-![example_photo](https://github.com/sunisfighting/NETON/blob/main/example_photo.jpg)
+<img width="650" src="https://github.com/sunisfighting/NETON/blob/main/example_photo.jpg"/>
+

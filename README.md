@@ -1,4 +1,4 @@
-### Do Not Expect Too Much from Your Neighbors in Contrastive Learning of Node Representation
+# Do Not Expect Too Much from Your Neighbors in Contrastive Learning of Node Representation
 
 This repository contains the source code for NETON. 
 
@@ -19,7 +19,7 @@ Important args:
 
 All datasets will be downloaded directly from publicly available sources, and thus we do not upload them to this repo.
 
-# The results on Amazon Photo should be close to:
+## The results on Amazon Photo should be close to:
 
 <img width="600" src="https://github.com/sunisfighting/NETON/blob/main/example_photo.jpg"/>
 

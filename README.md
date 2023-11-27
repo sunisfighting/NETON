@@ -18,3 +18,6 @@ Important args:
 * `--dataset` wikics, photo, computers, cs, physics, flickr, ppi
 
 All datasets will be downloaded directly from publicly available sources, and thus we do not upload them to this repo.
+
+The results on Amazon Photo dataset should be close to:
+![example_photo](https://github.com/sunisfighting/NETON/blob/main/example_photo.png)

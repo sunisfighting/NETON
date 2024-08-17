@@ -1,6 +1,6 @@
-# Do Not Expect Too Much from Your Neighbors in Contrastive Learning of Node Representation
+# Single-View Graph Contrastive Learning with Soft Neighborhood Awareness (SIGNA)
 
-This repository contains the source code for NETON. 
+This repository contains the source code for SIGNA. 
 
 ## Run
 

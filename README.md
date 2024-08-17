@@ -19,8 +19,8 @@ Important args:
 
 All datasets will be downloaded directly from publicly available sources, and thus we do not upload them to this repo.
 
-## The results on Amazon Photo should be close to example_photo.jpg:
+## The results on Amazon Photo should be close to:
 
-![image](https://github.com/sunisfighting/NETON/blob/main/example_photo.jpg)
-<img width="600" src="https://github.com/sunisfighting/NETON/blob/main/example_photo.jpg"/>
+![example_photo.jpg](https://github.com/sunisfighting/NETON/blob/main/example_photo.jpg)
+.. <img width="600" src="https://github.com/sunisfighting/NETON/blob/main/example_photo.jpg"/>
 
